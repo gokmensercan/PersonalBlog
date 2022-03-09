@@ -1,11 +1,3 @@
----
-title: Basics
-taxonomy:
-    category:
-        - docs
-media_order: user-avatar.png
----
-
 ### Chapter 1
 
 # Basics
